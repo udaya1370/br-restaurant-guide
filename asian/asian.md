@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## [Chinese](https://www.pandabrooklyn.com/)
-## [Japanese](http://www.brsushi.com/)
-## [Thai](http://www.glowthairestaurant.com/)
+## [Chinese](chinese.md)
+## [Japanese](japanese)
+## [Thai](thai.md)
 ---
 [Start Over](../asian.md)
