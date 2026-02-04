@@ -1,7 +1,7 @@
 # Bay Ridge Restaurant Guide
-## Bengali
+## European
 ---
-Select a specific Bengali food:
+Select a specific European food:
 ## [Greek](Greek.md)
 ## [Mediterranean](Mediterranean.md)
 ---

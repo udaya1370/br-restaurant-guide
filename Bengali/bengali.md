@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## European
+## Bengali
 ---
 Select a specific Bengali food:
 ## [Bengali](bengaliBrooklyn.md)
