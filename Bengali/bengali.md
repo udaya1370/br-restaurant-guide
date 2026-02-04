@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
 ## European
 ---
-Select a specific European food:
-## [Greek](Greek.md)
-## [Mediterranean](Mediterranean.md)
+Select a specific Bengali food:
+## [Bengali](bengaliBrooklyn.md)
+
 ---
 [Start Over](../home.md)
